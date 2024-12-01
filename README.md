@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barry Elhadj Sadou</h1>
 <h3 align="center">Code, Creativity, Movie, Developer and Cybersecurity</h3>
 
-- 🌱 I’m currently learning **Golang, C, ,C++,Python, Sql, Docker, Php, Javascript, Rust, Laravel and Django**
+- 🌱 I’m currently learning **Golang,Python, Sql, Docker, Php, Javascript, Rust, Java, Laravel and Django**
 
 - 💬 Ask me about **Golang, Javascript, php, Python**
 
