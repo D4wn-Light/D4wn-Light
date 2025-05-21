@@ -39,9 +39,10 @@ I specialize in building secure, efficient, and scalable applications with a str
 
 ### OS:
 
-| Kali Linux | Parrot OS (Ubuntu) | Windows |
+| Kali Linux | Parrot OS  | Windows |
 |------------|--------------------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Kali Linux (Debian-based)" alt="Kali Linux" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Parrot OS (Ubuntu-based)" alt="Parrot OS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Parrot_Logo.png/600px-Parrot_Logo.png" title="Parrot OS" alt="Parrot OS" width="55" height="55"/>
+ | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/>  |
 
 ---
 
