@@ -59,27 +59,18 @@ I specialize in building secure, efficient, and scalable applications with a str
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4wn-Light&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4wn-Light&layout=compact&theme=tokyonight&token=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" alt="Top Langs" />
 
 </p>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Betzalel75&style=for-the-badge&color=orange" alt=""/>
+</div>
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
----
-
-### 📫 Let's Connect
-
-Feel free to reach out or check out my latest work:
-
-- GitHub: [github.com/TonNomUtilisateurGitHub](https://github.com/D4wn-Light)
-- LinkedIn: [linkedin.com/in/TonNom](https://linkedin.com/in/el-hadj-sadou-barry)
 
 ---
 
