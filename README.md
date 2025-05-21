@@ -39,9 +39,9 @@ I specialize in building secure, efficient, and scalable applications with a str
 
 ### OS:
 
-| Kali | Parrot | Windows |
-|----------|----------|----------|
-| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> 
+| Kali Linux | Parrot OS (Ubuntu) | Windows |
+|------------|--------------------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" title="Kali Linux (Debian-based)" alt="Kali Linux" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Parrot OS (Ubuntu-based)" alt="Parrot OS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
 ---
 
@@ -51,8 +51,6 @@ I specialize in building secure, efficient, and scalable applications with a str
 - **Inspector Image:** Analyzes image metadata and hidden content (e.g., PGP keys).
 
 ---
-
-### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D4wn-Light&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
