@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi there 👋, I'm [Ton Prénom]</h1>
+<h1 align="center">Hi there 👋, I'm [Barry Elhadj Fatimatou Sdaou]</h1>
 
 ### 👨‍💻 About Me
 
 I'm a Junior Full Stack Developer currently learning at **01Edu**.  
 I specialize in building secure, efficient, and scalable applications with a strong focus on **cybersecurity**, **mobile development**, and **DevOps** practices.
 
-🎓 Completed full curricula in **Go**, **JavaScript**, **Rust**, **Next.js**, and **PHP**.  
+🎓 Completed full curricula in **Go**, **JavaScript**, **Rust**, **Next.js**, **Python**, **Java**  and **PHP**.  
 📱 Hands-on experience with **Flutter** and **Java**.  
 🔐 Passionate about **ethical hacking**, **OSINT**, and **digital forensics**.  
 ⚙️ Exploring **DevOps** tools and practices to streamline development workflows.
@@ -17,7 +17,7 @@ I specialize in building secure, efficient, and scalable applications with a str
 <div>
 
 ### Languages:
-| Rust | C | JS | C++ | GO | Java |
+| Rust | GO | JS | PYTHON| PHP | Java |
 |----------|----------|----------|-----|-----|-----|
 |  <img src="assets/rust.png" title="Rust"  alt="Rust" width="90" height="90"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>| 
 
@@ -58,7 +58,9 @@ I specialize in building secure, efficient, and scalable applications with a str
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4wn-Light&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4wn-Light&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Betzalel75&style=for-the-badge&color=orange" alt=""/>
+</div>
 </p>
 
 ---
