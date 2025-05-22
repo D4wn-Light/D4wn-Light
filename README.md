@@ -19,7 +19,8 @@ I specialize in building secure, efficient, and scalable applications with a str
 ### Languages:
 | Rust | GO | JS | PYTHON| PHP | Java |
 |----------|----------|----------|-----|-----|-----|
-|  <img src="assets/rust.png" title="Rust"  alt="Rust" width="90" height="90"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>| 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" alt="Go" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/> |
+
 
 
 ### My tools for Data Manipulation & Visualisation:
@@ -58,9 +59,13 @@ I specialize in building secure, efficient, and scalable applications with a str
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4wn-Light&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Betzalel75&style=for-the-badge&color=orange" alt=""/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4wn-Light&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+
+  <p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Betzalel75&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betzalel75&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
 </p>
 
 ---
