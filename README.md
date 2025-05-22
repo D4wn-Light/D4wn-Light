@@ -59,7 +59,7 @@ I specialize in building secure, efficient, and scalable applications with a str
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4wn-Light&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4wn-Light&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4wn-Light&layout=compact&theme=github_dark" alt="Top Langs" />
 
 </p>
 </p>
