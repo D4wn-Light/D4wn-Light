@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=D4wn-Light&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <h1 align="center">Hi there 👋, I'm [Ton Prénom]</h1>
 
