@@ -6,14 +6,13 @@
 I'm a Junior Full Stack Developer currently learning at **01Edu**.  
 I specialize in building secure, efficient, and scalable applications with a strong focus on **cybersecurity**, **mobile development**, and **DevOps** practices.
 
-🎓 Completed full curricula in **Go**, **JavaScript**, **Rust**, **Next.js**, **Python**, **Java**  and **PHP**.  
+🎓 Completed full curricula in **Go**, **JavaScript**, **Rust**, **Next.js**, **Python** and **PHP**.  
 📱 Hands-on experience with **Flutter** and **Java**.  
 🔐 Passionate about **ethical hacking**, **OSINT**, and **digital forensics**.  
 ⚙️ Exploring **DevOps** tools and practices to streamline development workflows.
 
 ---
 
-## Languages and Tools 
 <div>
 
 ### Languages:
